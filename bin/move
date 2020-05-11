@@ -8,8 +8,6 @@ board= [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 
-puts board
-
 puts "Where would you like to go? Please choose a number 1-9 from top left to bottom right."
 value="X"
 input=gets.strip
